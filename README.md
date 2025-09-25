@@ -1,12 +1,12 @@
 # Heading 1
 ## Heading 2
-### Heading 3
+### Heading 3<>
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
 
 
-#Horizontal Rule
+#Horizontal Rule.
 
 ---
 ***
@@ -45,7 +45,7 @@ Quote break.
 
 * Unordered list can use asterisks
 - Or minuses
-+ Or pluses
++ Or pluses..
 
 
 
